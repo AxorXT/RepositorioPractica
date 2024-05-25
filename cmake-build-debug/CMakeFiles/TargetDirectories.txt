@@ -1,0 +1,3 @@
+C:/Users/Angel/Desktop/Proyectos/Entrada y Salida/cmake-build-debug/CMakeFiles/Entrada_y_Salida.dir
+C:/Users/Angel/Desktop/Proyectos/Entrada y Salida/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Angel/Desktop/Proyectos/Entrada y Salida/cmake-build-debug/CMakeFiles/rebuild_cache.dir
